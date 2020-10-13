@@ -1,3 +1,12 @@
 body {
     background-color: beige;
 }
+
+nav {
+    background-color: lightblue;
+    text-align: center;
+}
+
+h1.font {
+    font-family: 'Montserrat', sans-serif;
+}
